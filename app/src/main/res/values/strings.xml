@@ -3,9 +3,8 @@
     <string name="rules_text">
         This is how you play the slot machine:
 
-        Three Cherries = 100 points.
-        Two Pear = 50 points.
-        One Strawberry = 10 points.
+        Three of the Same Fruit = 100 points.
+        At Least One Strawberry = 10 points.
 
         Let the best player win !
 
